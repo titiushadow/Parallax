@@ -44,6 +44,7 @@ body{
   section.module h2{
     margin-bottom: 40px;
     font-size: 30px;
+    text-decoration: underline;
   }
   
   section.module.content{
